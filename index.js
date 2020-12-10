@@ -1,18 +1,18 @@
 // Write your code here
-class breakfast{
+class Breakfast{
   constructor(food, drink){
     this.food= food
     this.drink=drink
   }
 }
-class lunch{
+class Lunch{
   constructor(salad, soup, drink){
     this.salad=salad
     this.soup=soup
     this.drink=drink
   }
 }
-class dinner{
+class Dinner{
   constructor(salad, soup, entree,  _dessert){
     
   }
